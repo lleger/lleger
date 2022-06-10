@@ -1,6 +1,8 @@
 ### 👋🏻 I'm Logan.
 
-I’m an engineer and entrepreneur. I started [NewAperio]. We’re an agile, fully distributed team of developers and designers who sweat the details and take pride in our craft. We design and build web and mobile apps for clients. [➡️ Read more about us on our GitHub profile.][github]
+I’m an engineer and entrepreneur. I started [NewAperio]. We’re an agile, fully distributed team of developers and designers who sweat the details and take pride in our craft. We design and build web and mobile apps for clients. 
+
+[➡️ Read more about us on our GitHub profile.][github]
 
 We’re always available for hire! We provide expert Phoenix/Elixir, React, and React Native [consulting].
 
