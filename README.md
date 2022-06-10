@@ -1,20 +1,18 @@
 ### 👋🏻 I'm Logan.
 
-I'm an engineer and entrepreneur. I started [NewAperio], a web and mobile design and development studio. We craft delightful, thoughtful, and beautiful apps.
+I’m an engineer and entrepreneur. I started [NewAperio]. We’re an agile, fully distributed team of developers and designers who sweat the details and take pride in our craft. We design and build web and mobile apps for clients. [➡️ Read more about us on our GitHub profile.][github]
 
-I'm also a husband and father of two.
-
-We're always available for hire. We provide expert Phoenix/Elixir, Rails/Ruby, React, and React Native [consulting].
+We’re always available for hire! We provide expert Phoenix/Elixir, React, and React Native [consulting].
 
 #### 🤔 Some more about me
 
-- 🔭 I’m currently focusing on Elixir 💜 and Ruby ❤️
-- 💬 Ask me about Phoenix/Elixir, building technical teams, or running a startup
 - 😄 Pronouns: he/him
-- 🦸 I'm a comic book nerd
-- 🏈 I'm a sports fan (LSU, Saints, and Pelicans)
-- 🍗 I like to cook, smoke meats, and BBQ
-- ⚡ Fun fact: I have a large beard that was once shaved off by Steve Harvey for charity
+- 👨‍👩‍👧‍👦 I’m a husband and father of two.
+- 🔭 I’m currently focusing on Elixir 💜.
+- 💬 Ask me about Phoenix/Elixir, building technical teams, or running a startup.
+- 🦸 I'm a comic book nerd.
+- 🏈 I'm a sports fan (LSU, Saints, and Pelicans).
+- ⚡ Fun fact: I have a large beard that was once shaved off by Steve Harvey for charity.
 
 #### 📫 Contact
 
@@ -26,3 +24,4 @@ You can also find me on [Twitter].
 [consulting]: https://newaperio.com/services
 [website]: https://newaperio.com/contact/
 [twitter]: https://twitter.com/lleger
+[github]: https://github.com/newaperio
